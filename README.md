@@ -2,7 +2,7 @@
 
 # How to generate QR Code
 
-This app demonstrates different approaches to creating and managing QR codes in **HarmonyOS NEXT** applications using
+This app demonstrates different approaches to creating and managing QR codes in **HarmonyOS** applications using
 **ArkTS**. It explores QR code generation with the built-in QRCode component for straightforward rendering, as well as
 integration with Scan Kit for more advanced generation and management features.
 
@@ -17,7 +17,7 @@ integration with Scan Kit for more advanced generation and management features.
 # Use Cases
 
 The QR Code Generator is designed to help developers and users explore different ways of generating QR codes on
-HarmonyOS NEXT devices. It provides practical scenarios where QR code creation can be seamlessly integrated into daily
+HarmonyOS devices. It provides practical scenarios where QR code creation can be seamlessly integrated into daily
 use and application development:
 
 1. Instant QR Code Generation: Quickly create QR codes within the app using the built-in QRCode component for simple
@@ -27,7 +27,7 @@ use and application development:
 3. Learning and Prototyping: Developers can use the app as a hands-on reference for implementing QR code features in
    their own projects.
 4. Wearable and Mobile Compatibility: Demonstrates how QR code generation works efficiently on both wearable devices and
-   mobile HarmonyOS NEXT applications.
+   mobile HarmonyOS applications.
 5. Practical Everyday Scenarios: Supports use cases like sharing contact information, generating payment codes, linking
    to websites, or providing quick access to app features.
 
